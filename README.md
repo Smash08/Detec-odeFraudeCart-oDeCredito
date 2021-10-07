@@ -1,2 +1,6 @@
-# Detec-odeFraudeCart-oDeCredito
-Balanceamento e Machine learning - Prevendo fraudes
+# Detecção de Fraude em Cartão de Crédito
+Neste projeto abordei:
+
+Balanceamento de Dados
+Machine Learning
+Análise Exploratória de Dados
